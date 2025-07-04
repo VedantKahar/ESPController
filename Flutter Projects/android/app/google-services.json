@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "311977436929",
+    "firebase_url": "https://flutterespcontroller-default-rtdb.firebaseio.com",
+    "project_id": "flutterespcontroller",
+    "storage_bucket": "flutterespcontroller.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311977436929:android:3900eaebd693ab79e85d00",
+        "android_client_info": {
+          "package_name": "com.example.jpsc.espcontroller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0Lnc-3kqwkLpaOnNSBEGONsZnUyBlUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
